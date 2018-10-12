@@ -1,0 +1,28 @@
+#title, #places, #restaurants, #events {
+	padding: 20px;
+	color: #9400D3;
+	text-align: center;
+}
+
+#navTitle {
+	color: #DDA0DD;
+}
+
+.placeName {
+	text-align: center;
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+	padding: 5px;
+}
+
+#pic {
+	height: 220px;
+	width: 100%;
+}
+
+.carousel-caption {
+	background-color: rgba(255, 255, 255, 0.8); 
+	color: black;
+	border-radius: 20px;
+}
